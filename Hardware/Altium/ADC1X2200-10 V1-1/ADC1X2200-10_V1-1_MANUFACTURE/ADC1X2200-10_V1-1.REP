@@ -1,0 +1,18 @@
+------------------------------------------------------------
+Design Hierarchy Report for ADC1X2200-10_V1-1.PrjPCB
+-- 2013/05/16
+-- 11:53:27 AM
+------------------------------------------------------------
+
+ADC-TopSheet                  SCH        (ADC-TopSheet.SchDoc)
+    ADC1X2200-10-ADC          SCH        (ADC-ADC.SchDoc)
+    ADC1X2200-10-ADC-PSU      SCH        (ADC-ADC PSU.SchDoc)
+    ADC1X2200-10-ANALOGUE-INPUTSCH        (ADC-ANALOGUE INPUT.SchDoc)
+    ADC1X2200-10-DMUX         SCH        (ADC-DMUX.SchDoc)
+    ADC1X2200-10-DMUX-PSU     SCH        (ADC-DMUX PSU.SchDoc)
+    ADC1X2200-10-EXTERNAL-CLOCK-INPUTSCH        (ADC-EXTERNAL CLOCK INPUT.SchDoc)
+    ADC1X2200-10-PERIPHERALS  SCH        (ADC-PERIPHERALS.SchDoc)
+    ADC1X2200-10-POWER-SUPPLY SCH        (ADC-POWER SUPPLY.SchDoc)
+    ADC1X2200-10-POWER-SUPPLY 2SCH        (ADC-POWER SUPPLY 2.SchDoc)
+    ADC1X2200-10-SYNC-INPUT   SCH        (ADC-SYNC INPUT.SchDoc)
+    ADC1X2200-10-Z-DOK+       SCH        (ADC-Z-DOK.SchDoc)

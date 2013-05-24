@@ -1,0 +1,236 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C172       CAPC1005X55N          2425mil       1775mil       2425mil       1775mil       2425mil   1757.284mil  B         90.00 Capacitor 0402 SMD
+C171       CAPC1005X55N          2510mil       1800mil       2510mil       1800mil       2510mil   1817.716mil  B        270.00 Capacitor 0402 SMD
+C170       CAPC1005X55N          2475mil       2425mil       2475mil       2425mil   2457.284mil       2425mil  B        360.00 Capacitor 0402 SMD
+C168       CAPC1005X55N          1975mil       1825mil       1975mil       1825mil       1975mil   1807.284mil  B         90.00 Capacitor 0402 SMD
+C167       CAPC1005X55N          2175mil       1775mil       2175mil       1775mil   2192.716mil       1775mil  B        180.00 Capacitor 0402 SMD
+C166       CAPC1005X55N      2522.284mil       2125mil   2522.284mil       2125mil   2504.567mil       2125mil  B        360.00 Capacitor 0402 SMD
+C165       CAPC1005X55N          2375mil       1875mil       2375mil       1875mil       2375mil   1857.284mil  B         90.00 Capacitor 0402 SMD
+C164       CAPC1005X55N          2325mil       1775mil       2325mil       1775mil   2307.284mil       1775mil  B        360.00 Capacitor 0402 SMD
+C163       CAPC1005X55N          1975mil       1725mil       1975mil       1725mil   1957.284mil       1725mil  B        360.00 Capacitor 0402 SMD
+C162       CAPC1005X55N          2375mil       2025mil       2375mil       2025mil   2392.716mil       2025mil  B        180.00 Capacitor 0402 SMD
+C161       CAPC1005X55N          2425mil       2325mil       2425mil       2325mil       2425mil   2342.716mil  B        270.00 Capacitor 0402 SMD
+C160       CAPC1005X55N          1875mil       2525mil       1875mil       2525mil       1875mil   2507.284mil  B         90.00 Capacitor 0402 SMD
+C159       CAPC1005X55N          1975mil       2525mil       1975mil       2525mil       1975mil   2507.284mil  B         90.00 Capacitor 0402 SMD
+C158       CAPC1005X55N          1925mil       2525mil       1925mil       2525mil       1925mil   2507.284mil  B         90.00 Capacitor 0402 SMD
+C157       CAPC1005X55N          2510mil       1900mil       2510mil       1900mil       2510mil   1882.284mil  B         90.00 Capacitor 0402 SMD
+C156       CAPC1005X55N          2325mil       1725mil       2325mil       1725mil   2342.716mil       1725mil  B        180.00 Capacitor 0402 SMD
+C155       CAPC1005X55N          2075mil       1775mil       2075mil       1775mil   2057.284mil       1775mil  B        360.00 Capacitor 0402 SMD
+C154       CAPC1005X55N          2510mil       2200mil       2510mil       2200mil       2510mil   2182.284mil  B         90.00 Capacitor 0402 SMD
+C153       CAPC1005X55N          2225mil       1725mil       2225mil       1725mil   2207.284mil       1725mil  B        360.00 Capacitor 0402 SMD
+C136       CAPC1005X55N           965mil       1455mil        965mil       1455mil    947.284mil       1455mil  B        360.00 Capacitor 0402 SMD
+C135       CAPC1005X55N           915mil       1360mil        915mil       1360mil        915mil   1377.716mil  B        270.00 Capacitor 0402 SMD
+C146       CAPC1005X55N           615mil       2155mil        615mil       2155mil    632.716mil       2155mil  B        180.00 Capacitor 0402 SMD
+C145       CAPC1005X55N           765mil       1455mil        765mil       1455mil        765mil   1472.716mil  B        270.00 Capacitor 0402 SMD
+C144       CAPC1005X55N           715mil       1410mil        715mil       1410mil        715mil   1427.716mil  B        270.00 Capacitor 0402 SMD
+C143       CAPC1005X55N           615mil       2105mil        615mil       2105mil    632.716mil       2105mil  B        180.00 Capacitor 0402 SMD
+C142       CAPC1005X55N           665mil       1605mil        665mil       1605mil        665mil   1587.284mil  B         90.00 Capacitor 0402 SMD
+C141       CAPC1005X55N           665mil       1505mil        665mil       1505mil    682.716mil       1505mil  B        180.00 Capacitor 0402 SMD
+C152       CAPC1005X55N       467.284mil       1755mil    467.284mil       1755mil        485mil       1755mil  B        180.00 Capacitor 0402 SMD
+C151       CAPC1005X55N           565mil       1705mil        565mil       1705mil        565mil   1722.716mil  B        270.00 Capacitor 0402 SMD
+C150       CAPC1005X55N           615mil       2005mil        615mil       2005mil        615mil   1987.284mil  B         90.00 Capacitor 0402 SMD
+C149       CAPC1005X55N           565mil       2055mil        565mil       2055mil        565mil   2037.284mil  B         90.00 Capacitor 0402 SMD
+C148       CAPC1005X55N       467.284mil       1805mil    467.284mil       1805mil        485mil       1805mil  B        180.00 Capacitor 0402 SMD
+C147       CAPC1005X55N           615mil       1805mil        615mil       1805mil        615mil   1822.716mil  B        270.00 Capacitor 0402 SMD
+C134       CAPC1005X55N           965mil       2155mil        965mil       2155mil    982.716mil       2155mil  B        180.00 Capacitor 0402 SMD
+C133       CAPC1005X55N           915mil       2060mil        915mil       2060mil        915mil   2077.716mil  B        270.00 Capacitor 0402 SMD
+F1         FiducialTop_Global    328.229mil    121.338mil    328.228mil    121.338mil    328.229mil    121.338mil  T          0.00 FIDUCIALTOP_GLOBAL
+R8         0603                   975mil       1250mil        975mil       1250mil        975mil       1219mil  T         90.00 DNP            
+R7         0603                  1055mil       1250mil       1055mil       1250mil       1055mil       1219mil  T         90.00 DNP            
+R6         0603                   360mil       2030mil        360mil       2030mil        329mil       2030mil  T        360.00 DNP            
+R11        0603                  1040mil       2350mil       1040mil       2350mil       1040mil       2381mil  B        270.00 0R             
+R25        0603                  1469mil   2459.999mil       1469mil   2459.999mil       1500mil   2459.999mil  T        180.00 10k            
+R24        0603                  1470mil       2380mil       1470mil       2380mil       1501mil       2380mil  T        180.00 10k            
+R21        0603                  1469mil       2620mil       1469mil       2620mil       1438mil       2620mil  T        360.00 10k            
+R20        0603                  1685mil       1470mil       1685mil       1470mil       1685mil       1439mil  T         90.00 10k            
+R19        0603                  1765mil       1470mil       1765mil       1470mil       1765mil       1439mil  T         90.00 10k            
+R18        0603                  1470mil       2540mil       1470mil       2540mil       1439mil       2540mil  T        360.00 10k            
+R10        0603                  2730mil       2180mil       2730mil       2180mil       2761mil       2180mil  T        180.00 10R            
+R9         0603                  2731mil   2099.999mil       2731mil   2099.999mil       2762mil   2099.999mil  T        180.00 10R            
+R4         0603              2312.992mil   2952.756mil   2312.992mil   2952.756mil   2312.992mil   2921.756mil  T         90.00 49.9R 1%       
+R3         0603              2214.567mil   2952.756mil   2214.567mil   2952.756mil   2214.567mil   2921.756mil  T         90.00 49.9R 1%       
+R34        0603               344.488mil   1722.441mil    344.488mil   1722.441mil    344.488mil   1691.441mil  B         90.00 100k           
+R17        0603               342.519mil       1455mil    342.519mil       1455mil    342.519mil       1424mil  T         90.00 10k            
+R16        0603               344.488mil   1722.441mil    344.488mil   1722.441mil    344.488mil   1753.441mil  T        270.00 10k            
+R5         0603               352.283mil       3200mil    352.283mil       3200mil    352.283mil       3169mil  T         90.00 49.9R 1%       
+R2         0603               265.748mil   1722.441mil    265.748mil   1722.441mil    265.748mil   1753.441mil  T        270.00 49.9R 1%       
+R1         0603                   790mil       2360mil        790mil       2360mil        790mil       2391mil  T        270.00 49.9R 1%       
+R31        0603              1673.228mil   2854.331mil   1673.228mil   2854.331mil   1673.228mil   2823.331mil  T         90.00 1.69 k 1%      
+R30        0603              1761.811mil   2854.331mil   1761.811mil   2854.331mil   1761.811mil   2823.331mil  T         90.00 3.57k 1%       
+R29        0603               1171.26mil   2854.331mil    1171.26mil   2854.331mil    1171.26mil   2823.331mil  T         90.00 4.75k 1%       
+R28        0603              1259.842mil   2854.331mil   1259.842mil   2854.331mil   1259.842mil   2823.331mil  T         90.00 3.9k 1%        
+U9         QFN65P500X500X100-21AN   1811.024mil   3070.866mil   1811.024mil   3070.866mil   1903.543mil   3019.685mil  T        180.00 TPS7440RGWT    
+U8         QFN65P500X500X100-21AN   1309.055mil   3070.866mil   1309.055mil   3070.866mil   1401.575mil   3019.685mil  T        180.00 TPS7440RGWT    
+U10        SOT95P280X110-5USR2    984.409mil   3149.764mil    974.409mil   3139.764mil   1035.591mil   3112.362mil  T        180.00 TPS79930DDCR   
+C113       CAPC1632X80USR     875.984mil   3021.653mil    875.984mil   3021.653mil    875.984mil    3053.15mil  T        270.00 CAP SMD 1206   
+C102       CAPC1005X55N      1035.591mil       3265mil   1035.591mil       3265mil   1035.591mil   3247.284mil  T         90.00 Capacitor 0402 SMD
+C103       CAPC1005X55N           855mil   3187.166mil        855mil   3187.166mil    872.716mil   3187.166mil  T        180.00 Capacitor 0402 SMD
+U14        TI_TO-263-3       2543.406mil    884.252mil   2755.906mil    784.252mil   2755.906mil    784.252mil  T         90.00 LM2990S-5.0    
+C129       3528              2952.756mil    1053.15mil   2952.756mil    1053.15mil   2952.756mil    1120.65mil  T         90.00 33uF           
+C128       3528              3100.394mil    1053.15mil   3100.394mil    1053.15mil   3100.394mil    1120.65mil  T         90.00 33uF           
+C125       3528              1673.228mil    1053.15mil   1673.228mil    1053.15mil   1673.228mil    1120.65mil  T         90.00 33uF           
+C124       3528              1820.866mil    1053.15mil   1820.866mil    1053.15mil   1820.866mil    1120.65mil  T         90.00 33uF           
+U13        TI_TO-263-3       1263.878mil    884.252mil   1476.378mil    784.252mil   1476.378mil    784.252mil  T         90.00 LM2990S-5.0    
+U7         SOT95P280X145-6N   3543.307mil   2913.386mil   3543.307mil   2913.386mil   3596.457mil   2875.984mil  T        180.00 SN74LVC2G07DBVR
+R26        0603              3346.457mil   2795.276mil   3346.457mil   2795.276mil   3346.457mil   2764.276mil  T         90.00 1K             
+R27        0603              3257.874mil   2795.276mil   3257.874mil   2795.276mil   3257.874mil   2764.276mil  T         90.00 1K             
+C100       CAPC1005X55N      3543.307mil   2913.386mil   3543.307mil   2913.386mil   3561.024mil   2913.386mil  B        180.00 Capacitor 0402 SMD
+C92        CAPC1005X55N           815mil       1410mil        815mil       1410mil        815mil   1427.716mil  B        270.00 Capacitor 0402 SMD
+U12        TI_EUU            2786.417mil    353.839mil   2411.417mil    541.339mil   2411.417mil    541.339mil  T        360.00 PTN04050A      
+U11        TI_EUU             1506.89mil    353.839mil    1131.89mil    541.339mil    1131.89mil    541.339mil  T        360.00 PTN04050A      
+R33        0603                  3020mil        165mil       3020mil        165mil       3051mil        165mil  B        180.00 9.1k 1%        
+C126       3528              2165.354mil    442.913mil   2165.354mil    442.913mil   2165.354mil    375.413mil  T        270.00 100uF          
+C118       CAPC3225X220N     2165.354mil    147.638mil   2165.354mil    147.638mil   2165.354mil      92.52mil  T         90.00 Capacitor 1210 SMD
+C119       CAPC3225X220N     3297.244mil    738.189mil   3297.244mil    738.189mil   3352.362mil    738.189mil  T        180.00 Capacitor 1210 SMD
+C116       CAPC3225X220N      885.827mil    147.638mil    885.827mil    147.638mil    885.827mil      92.52mil  T         90.00 Capacitor 1210 SMD
+C117       CAPC3225X220N     2017.716mil    738.189mil   2017.716mil    738.189mil   2072.835mil    738.189mil  T        180.00 Capacitor 1210 SMD
+C127       3528              3001.968mil    738.189mil   3001.968mil    738.189mil   2934.468mil    738.189mil  T        180.00 100uF          
+C123       3528              1722.441mil    738.189mil   1722.441mil    738.189mil   1654.941mil    738.189mil  T        180.00 100uF          
+C122       3528               885.827mil    442.913mil    885.827mil    442.913mil    885.827mil    375.413mil  T        270.00 100uF          
+C2         CAPC1005X55N          1925mil       1875mil       1925mil       1875mil       1925mil   1857.284mil  B         90.00 Capacitor 0402 SMD
+U2         BGA240x19             2100mil       2100mil       2550mil       1650mil       2550mil       1650mil  T        180.00 AT84CS001VTP   
+F4         FiducialBot_Global    121.536mil    144.961mil    121.536mil    144.961mil    121.536mil    144.961mil  T          0.00 FIDUCIALBOT_GLOBAL
+R15        0603              2687.008mil   3257.874mil   2687.008mil   3257.874mil   2687.008mil   3226.874mil  T         90.00 470R           
+U5         SOIC127P600X175-8N    2657.48mil   2952.756mil    2657.48mil   2952.756mil    2582.48mil   2846.457mil  T         90.00 AT24C02C-SSHM-B
+U3         SOT95P280X145-5N        390mil       3015mil        390mil       3015mil    352.598mil   2963.819mil  T         90.00 SN65LVDS1DBVR  
+U4         SOP65P400X130-8USR   3001.968mil   3110.236mil   3001.968mil   3110.236mil   3076.772mil    3071.85mil  T        180.00 PCA9306        
+U6         TI_SOT23-8        2283.465mil   3149.606mil   2283.465mil   3149.606mil   2245.079mil   3110.236mil  T        360.00 TMP421AIDCNT   
+R22        0603              2480.315mil   3031.496mil   2480.315mil   3031.496mil   2480.315mil   3000.496mil  T         90.00 10k            
+R23        0603              2923.228mil   2952.756mil   2923.228mil   2952.756mil   2923.228mil   2983.756mil  T        270.00 10K            
+R14        0603              2775.591mil   3257.874mil   2775.591mil   3257.874mil   2775.591mil   3226.874mil  T         90.00 470R           
+R13        0603              3208.662mil   3257.874mil   3208.662mil   3257.874mil   3208.662mil   3288.874mil  T        270.00 220R           
+R12        0603              3120.079mil   3257.874mil   3120.079mil   3257.874mil   3120.079mil   3288.874mil  T        270.00 220R           
+J5         TSM_5X1_SV         3639.37mil   3198.819mil    3789.37mil   3198.819mil    3839.37mil   3141.319mil  T          0.00 SAMTEC-TSM-105-01-TM-SV-5W-HDR
+JP1        JP-100MIL         2509.843mil   3198.819mil   2509.843mil   3198.819mil   2559.843mil   3198.819mil  T        270.00 Jumper2W       
+J4         EDGE_LAUNCH_TH_SMA      115.5mil    3129.06mil         30mil    3129.06mil         30mil    3129.06mil  T          0.00 142-0761-811   
+J3         EDGE_LAUNCH_TH_SMA      115.5mil    1565.63mil         30mil    1565.63mil         30mil    1565.63mil  T          0.00 142-0761-811   
+J2         EDGE_LAUNCH_TH_SMA      115.5mil       2310mil         30mil       2310mil         30mil       2310mil  T          0.00 142-0761-811   
+J1         TYCO6367555       4687.992mil   1687.205mil       4875mil   2677.165mil       4875mil   2677.165mil  T         90.00 Z-DOK          
+C96        CAPC1005X55N       324.803mil   1564.961mil    324.803mil   1564.961mil    307.087mil   1564.961mil  T          0.00 Capacitor 0402 SMD
+C95        CAPC1005X55N       324.803mil   1604.331mil    324.803mil   1604.331mil    307.087mil   1604.331mil  T        360.00 Capacitor 0402 SMD
+C101       CAPC1005X55N      2283.465mil   3149.606mil   2283.465mil   3149.606mil   2301.181mil   3149.606mil  B        180.00 Capacitor 0402 SMD
+C108       CAPC1005X55N           325mil       2310mil        325mil       2310mil    307.284mil       2310mil  T          0.00 Capacitor 0402 SMD
+C114       CAPC3225X220N     1525.591mil   3074.803mil   1525.591mil   3074.803mil   1525.591mil   3019.685mil  T         90.00 Capacitor 1210 SMD
+C115       CAPC3225X220N     2017.716mil   3070.866mil   2017.716mil   3070.866mil   2017.716mil   3015.748mil  T         90.00 Capacitor 1210 SMD
+C99        CAPC1005X55N      3001.968mil   3031.496mil   3001.968mil   3031.496mil   3001.968mil   3049.213mil  B        270.00 Capacitor 0402 SMD
+U1         BGA156x16              915mil       1805mil       1290mil       1430mil        690mil       1430mil  T        180.00 AT84AS008CGL   
+R32        0603                  1745mil    166.338mil       1745mil    166.338mil       1776mil    166.338mil  B        180.00 9.1k 1%        
+JP2        JP-100MIL              825mil       1230mil        825mil       1230mil        775mil       1230mil  T         90.00 Jumper2W       
+FILT2      BNX002-01         4035.433mil    688.976mil   4133.858mil    738.189mil   4133.858mil    738.189mil  T         90.00 BNX002-01      
+FILT3      BNX002-01         3543.307mil    295.276mil   3641.732mil    344.488mil   3641.732mil    344.488mil  T         90.00 BNX002-01      
+FILT1      BNX002-01         4035.433mil   2706.693mil   4133.858mil   2755.905mil   4133.858mil   2755.905mil  T         90.00 BNX002-01      
+C1         CAPC1005X55N      2377.284mil       2075mil   2377.284mil       2075mil   2395.001mil       2075mil  B        180.00 Capacitor 0402 SMD
+C111       CAPC1632X80USR    2017.716mil   3257.874mil   2017.716mil   3257.874mil   2017.716mil   3226.378mil  T         90.00 CAP SMD 1206   
+C121       3528              1957.264mil   2854.331mil   1957.264mil   2854.331mil   1889.764mil   2854.331mil  T        180.00 33uF           
+C120       3528              1456.693mil   2854.331mil   1456.693mil   2854.331mil   1389.193mil   2854.331mil  T        180.00 33uF           
+C109       CAPC1632X80USR    1525.591mil   3257.874mil   1525.591mil   3257.874mil   1525.591mil   3226.378mil  T         90.00 CAP SMD 1206   
+C3         CAPC1005X55N          2275mil       1875mil       2275mil       1875mil       2275mil   1857.284mil  B         90.00 Capacitor 0402 SMD
+C4         CAPC1005X55N      2075.001mil   2377.284mil   2075.001mil   2377.284mil   2075.001mil       2395mil  B        270.00 Capacitor 0402 SMD
+C5         CAPC1005X55N      2174.999mil   2377.717mil   2174.999mil   2377.717mil   2174.999mil   2395.433mil  B        270.00 Capacitor 0402 SMD
+C6         CAPC1005X55N      2274.999mil   2377.716mil   2274.999mil   2377.716mil   2274.999mil   2395.432mil  B        270.00 Capacitor 0402 SMD
+C7         CAPC1005X55N      2324.999mil   2377.717mil   2324.999mil   2377.717mil   2324.999mil   2395.433mil  B        270.00 Capacitor 0402 SMD
+C8         CAPC1005X55N          2325mil       1875mil       2325mil       1875mil       2325mil   1857.284mil  B         90.00 Capacitor 0402 SMD
+C9         CAPC1005X55N      1974.999mil   2377.716mil   1974.999mil   2377.716mil   1974.999mil   2395.433mil  B        270.00 Capacitor 0402 SMD
+C10        CAPC1005X55N      2377.284mil       2175mil   2377.284mil       2175mil   2395.001mil       2175mil  B        180.00 Capacitor 0402 SMD
+C11        CAPC1005X55N          2075mil   1875.001mil       2075mil   1875.001mil       2075mil   1857.284mil  B         90.00 Capacitor 0402 SMD
+C12        CAPC1005X55N      1925.001mil   2377.283mil   1925.001mil   2377.283mil   1925.001mil       2395mil  B        270.00 Capacitor 0402 SMD
+C13        CAPC1005X55N      2024.999mil   2377.716mil   2024.999mil   2377.716mil   2024.999mil   2395.433mil  B        270.00 Capacitor 0402 SMD
+C14        CAPC1005X55N      2124.999mil   2377.717mil   2124.999mil   2377.717mil   2124.999mil   2395.433mil  B        270.00 Capacitor 0402 SMD
+C15        CAPC1005X55N      2225.001mil   2377.284mil   2225.001mil   2377.284mil   2225.001mil       2395mil  B        270.00 Capacitor 0402 SMD
+C16        CAPC1005X55N      1872.716mil   2074.999mil   1872.716mil   2074.999mil   1854.999mil   2074.999mil  B        360.00 Capacitor 0402 SMD
+C17        CAPC1005X55N      1872.716mil   1975.001mil   1872.716mil   1975.001mil       1855mil   1975.001mil  B        360.00 Capacitor 0402 SMD
+C18        CAPC1005X55N      1872.716mil   2275.001mil   1872.716mil   2275.001mil   1854.999mil   2275.001mil  B        360.00 Capacitor 0402 SMD
+C19        CAPC1005X55N          1775mil       2325mil       1775mil       2325mil       1775mil   2342.716mil  B        270.00 Capacitor 0402 SMD
+C20        CAPC1005X55N      2377.284mil       2125mil   2377.284mil       2125mil   2395.001mil       2125mil  B        180.00 Capacitor 0402 SMD
+C21        CAPC1005X55N      1872.716mil   2174.999mil   1872.716mil   2174.999mil   1854.999mil   2174.999mil  B        360.00 Capacitor 0402 SMD
+C22        CAPC1005X55N      1872.716mil   2124.999mil   1872.716mil   2124.999mil   1854.999mil   2124.999mil  B        360.00 Capacitor 0402 SMD
+C23        CAPC1005X55N          1725mil       2125mil       1725mil       2125mil       1725mil   2142.716mil  B        270.00 Capacitor 0402 SMD
+C24        CAPC1005X55N          1725mil       1975mil       1725mil       1975mil       1725mil   1992.716mil  B        270.00 Capacitor 0402 SMD
+C25        CAPC1005X55N          1825mil       1875mil       1825mil       1875mil       1825mil   1857.284mil  B         90.00 Capacitor 0402 SMD
+C26        CAPC1005X55N          1725mil       1825mil       1725mil       1825mil       1725mil   1842.716mil  B        270.00 Capacitor 0402 SMD
+C27        CAPC1005X55N          1775mil       1875mil       1775mil       1875mil       1775mil   1892.716mil  B        270.00 Capacitor 0402 SMD
+C44        CAPC1005X55N          2330mil       2225mil       2330mil       2225mil   2347.716mil       2225mil  B        180.00 Capacitor 0402 SMD
+C45        CAPC1005X55N          2325mil       2525mil       2325mil       2525mil       2325mil   2507.284mil  B         90.00 Capacitor 0402 SMD
+C46        CAPC1005X55N          2375mil       2525mil       2375mil       2525mil       2375mil   2507.284mil  B         90.00 Capacitor 0402 SMD
+C47        CAPC1005X55N          2275mil       2525mil       2275mil       2525mil       2275mil   2507.284mil  B         90.00 Capacitor 0402 SMD
+C48        CAPC1005X55N          2075mil       2525mil       2075mil       2525mil       2075mil   2507.284mil  B         90.00 Capacitor 0402 SMD
+C49        CAPC1005X55N          2525mil       2275mil       2525mil       2275mil   2507.284mil       2275mil  B        360.00 Capacitor 0402 SMD
+C50        CAPC1005X55N          2175mil       1875mil       2175mil       1875mil       2175mil   1857.284mil  B         90.00 Capacitor 0402 SMD
+C51        CAPC1005X55N          2525mil       2325mil       2525mil       2325mil   2507.284mil       2325mil  B        360.00 Capacitor 0402 SMD
+C52        CAPC1005X55N          1825mil       1775mil       1825mil       1775mil   1842.716mil       1775mil  B        180.00 Capacitor 0402 SMD
+C53        CAPC1005X55N          1825mil       1725mil       1825mil       1725mil   1842.716mil       1725mil  B        180.00 Capacitor 0402 SMD
+C54        CAPC1005X55N          2175mil       2525mil       2175mil       2525mil       2175mil   2507.284mil  B         90.00 Capacitor 0402 SMD
+C55        CAPC1005X55N          2425mil       2525mil       2425mil       2525mil       2425mil   2507.284mil  B         90.00 Capacitor 0402 SMD
+C28        CAPC1005X55N          1015mil       2060mil       1015mil       2060mil       1015mil   2077.716mil  B        270.00 Capacitor 0402 SMD
+C29        CAPC1005X55N          1065mil       2010mil       1065mil       2010mil       1065mil   2027.716mil  B        270.00 Capacitor 0402 SMD
+C30        CAPC1005X55N          1215mil       1905mil       1215mil       1905mil       1215mil   1922.716mil  B        270.00 Capacitor 0402 SMD
+C31        CAPC1005X55N      1132.717mil       1930mil   1132.717mil       1930mil   1150.434mil       1930mil  B        180.00 Capacitor 0402 SMD
+C71        CAPC1005X55N      1117.283mil       1705mil   1117.283mil       1705mil       1135mil       1705mil  B        180.00 Capacitor 0402 SMD
+C32        CAPC1005X55N           965mil       2060mil        965mil       2060mil        965mil   2077.716mil  B        270.00 Capacitor 0402 SMD
+C33        CAPC1005X55N          1015mil       1600mil       1015mil       1600mil       1015mil   1582.284mil  B         90.00 Capacitor 0402 SMD
+C34        CAPC1005X55N           965mil       1600mil        965mil       1600mil        965mil   1582.284mil  B         90.00 Capacitor 0402 SMD
+C35        CAPC1005X55N           915mil       1600mil        915mil       1600mil        915mil   1582.284mil  B         90.00 Capacitor 0402 SMD
+C36        CAPC1005X55N           765mil       1600mil        765mil       1600mil        765mil   1582.284mil  B         90.00 Capacitor 0402 SMD
+C37        CAPC1005X55N           710mil       1805mil        710mil       1805mil    692.284mil       1805mil  B        360.00 Capacitor 0402 SMD
+C38        CAPC1005X55N      1117.283mil       1805mil   1117.283mil       1805mil       1135mil       1805mil  B        180.00 Capacitor 0402 SMD
+C39        CAPC1005X55N      1117.283mil       1755mil   1117.283mil       1755mil       1135mil       1755mil  B        180.00 Capacitor 0402 SMD
+C40        CAPC1005X55N          1165mil       2250mil       1165mil       2250mil       1165mil   2232.284mil  B         90.00 Capacitor 0402 SMD
+C41        CAPC1005X55N           710mil       1855mil        710mil       1855mil    692.284mil       1855mil  B        360.00 Capacitor 0402 SMD
+C42        CAPC1005X55N           815mil       1600mil        815mil       1600mil        815mil   1582.284mil  B         90.00 Capacitor 0402 SMD
+C43        CAPC1005X55N           710mil       1905mil        710mil       1905mil    692.284mil       1905mil  B        360.00 Capacitor 0402 SMD
+C56        CAPC1005X55N          2225mil       1875mil       2225mil       1875mil       2225mil   1857.284mil  B         90.00 Capacitor 0402 SMD
+C57        CAPC1005X55N          1825mil       2425mil       1825mil       2425mil   1807.284mil       2425mil  B        360.00 Capacitor 0402 SMD
+C58        CAPC1005X55N          1725mil       2325mil       1725mil       2325mil       1725mil   2307.284mil  B         90.00 Capacitor 0402 SMD
+C112       CAPC1632X80USR    1722.441mil   3257.874mil   1722.441mil   3257.874mil   1722.441mil   3226.378mil  T         90.00 CAP SMD 1206   
+C59        CAPC1005X55N          1675mil       2425mil       1675mil       2425mil   1692.716mil       2425mil  B        180.00 Capacitor 0402 SMD
+C60        CAPC1005X55N          2525mil       2475mil       2525mil       2475mil   2507.284mil       2475mil  B        360.00 Capacitor 0402 SMD
+C61        CAPC1005X55N          2025mil       2525mil       2025mil       2525mil       2025mil   2507.284mil  B         90.00 Capacitor 0402 SMD
+C62        CAPC1005X55N          2125mil       2525mil       2125mil       2525mil       2125mil   2507.284mil  B         90.00 Capacitor 0402 SMD
+C63        CAPC1005X55N          2225mil       2525mil       2225mil       2525mil       2225mil   2507.284mil  B         90.00 Capacitor 0402 SMD
+C64        CAPC1005X55N          2025mil       1875mil       2025mil       1875mil       2025mil   1857.284mil  B         90.00 Capacitor 0402 SMD
+C65        CAPC1005X55N          2125mil       1875mil       2125mil       1875mil       2125mil   1857.284mil  B         90.00 Capacitor 0402 SMD
+C66        CAPC1005X55N          2325mil       1975mil       2325mil       1975mil   2342.716mil       1975mil  B        180.00 Capacitor 0402 SMD
+C67        CAPC1005X55N      2374.999mil   2377.716mil   2374.999mil   2377.716mil   2374.999mil   2395.433mil  B        270.00 Capacitor 0402 SMD
+C68        CAPC1005X55N          2510mil       2000mil       2510mil       2000mil       2510mil   1982.284mil  B         90.00 Capacitor 0402 SMD
+C69        CAPC1005X55N          2525mil       2375mil       2525mil       2375mil   2507.284mil       2375mil  B        360.00 Capacitor 0402 SMD
+C70        CAPC1005X55N          2425mil       1925mil       2425mil       1925mil       2425mil   1907.284mil  B         90.00 Capacitor 0402 SMD
+C72        CAPC1005X55N          1115mil       1600mil       1115mil       1600mil       1115mil   1582.284mil  B         90.00 Capacitor 0402 SMD
+C73        CAPC1005X55N          1065mil       1600mil       1065mil       1600mil       1065mil   1582.284mil  B         90.00 Capacitor 0402 SMD
+C74        CAPC1005X55N          1215mil       1705mil       1215mil       1705mil       1215mil   1687.284mil  B         90.00 Capacitor 0402 SMD
+C75        CAPC1005X55N          1165mil       2155mil       1165mil       2155mil   1147.284mil       2155mil  B        360.00 Capacitor 0402 SMD
+C76        CAPC1005X55N          1115mil       2250mil       1115mil       2250mil       1115mil   2232.284mil  B         90.00 Capacitor 0402 SMD
+C77        CAPC1005X55N          1115mil       1410mil       1115mil       1410mil       1115mil   1427.716mil  B        270.00 Capacitor 0402 SMD
+C78        CAPC1005X55N          1215mil       1555mil       1215mil       1555mil       1215mil   1572.716mil  B        270.00 Capacitor 0402 SMD
+C79        CAPC1005X55N           710mil       1955mil        710mil       1955mil    692.284mil       1955mil  B        360.00 Capacitor 0402 SMD
+C80        CAPC1005X55N           715mil       1600mil        715mil       1600mil        715mil   1582.284mil  B         90.00 Capacitor 0402 SMD
+C81        CAPC1005X55N           710mil       2005mil        710mil       2005mil    692.284mil       2005mil  B        360.00 Capacitor 0402 SMD
+C82        CAPC1005X55N          1015mil       2250mil       1015mil       2250mil       1015mil   2232.284mil  B         90.00 Capacitor 0402 SMD
+C83        CAPC1005X55N           665mil       2250mil        665mil       2250mil        665mil   2232.284mil  B         90.00 Capacitor 0402 SMD
+C84        CAPC1005X55N           520mil       1955mil        520mil       1955mil    537.716mil       1955mil  B        180.00 Capacitor 0402 SMD
+C85        CAPC1005X55N          1165mil       1410mil       1165mil       1410mil       1165mil   1427.716mil  B        270.00 Capacitor 0402 SMD
+C86        CAPC1005X55N          1165mil       1600mil       1165mil       1600mil       1165mil   1582.284mil  B         90.00 Capacitor 0402 SMD
+C87        CAPC1005X55N          1115mil       1505mil       1115mil       1505mil   1132.716mil       1505mil  B        180.00 Capacitor 0402 SMD
+C88        CAPC1005X55N          1165mil       2060mil       1165mil       2060mil       1165mil   2077.716mil  B        270.00 Capacitor 0402 SMD
+C89        CAPC1005X55N           865mil       1600mil        865mil       1600mil        865mil   1582.284mil  B         90.00 Capacitor 0402 SMD
+C90        CAPC1005X55N           865mil       2010mil        865mil       2010mil        865mil   2027.716mil  B        270.00 Capacitor 0402 SMD
+C91        CAPC1005X55N           915mil       2250mil        915mil       2250mil        915mil   2232.284mil  B         90.00 Capacitor 0402 SMD
+C93        CAPC1005X55N           865mil       1410mil        865mil       1410mil        865mil   1427.716mil  B        270.00 Capacitor 0402 SMD
+C94        CAPC1005X55N           520mil       1905mil        520mil       1905mil    537.716mil       1905mil  B        180.00 Capacitor 0402 SMD
+C110       CAPC1632X80USR    1220.472mil   3259.843mil   1220.472mil   3259.843mil   1220.472mil   3228.347mil  T         90.00 CAP SMD 1206   
+C107       CAPC1005X55N      2647.638mil   2952.756mil   2647.638mil   2952.756mil   2665.354mil   2952.756mil  B        180.00 Capacitor 0402 SMD
+C98        CAPC1005X55N      3149.606mil   3031.496mil   3149.606mil   3031.496mil   3149.606mil    3013.78mil  B         90.00 Capacitor 0402 SMD
+C106       CAPC1005X55N       2263.78mil   2834.646mil    2263.78mil   2834.646mil   2281.496mil   2834.646mil  T        180.00 Capacitor 0402 SMD
+C104       CAPC1005X55N      1141.732mil   3041.339mil   1141.732mil   3041.339mil   1141.732mil   3059.055mil  T        270.00 Capacitor 0402 SMD
+C105       CAPC1005X55N      1643.701mil   3041.339mil   1643.701mil   3041.339mil   1643.701mil   3059.055mil  T        270.00 Capacitor 0402 SMD
+LOGO1      MEERKATLOGO     -14511.299mil  -7148.898mil    3074.37mil   1619.646mil -14511.299mil  -7148.898mil  T          0.00 MEERKATLOGO    
+C97        CAPC1005X55N       295.276mil   2942.913mil    295.276mil   2942.913mil    295.276mil   2925.197mil  T         90.00 Capacitor 0402 SMD
+C137       CAPC1005X55N          1115mil       2010mil       1115mil       2010mil       1115mil   2027.716mil  B        270.00 Capacitor 0402 SMD
+C138       CAPC1005X55N           915mil       1505mil        915mil       1505mil    897.284mil       1505mil  B        360.00 Capacitor 0402 SMD
+C139       CAPC1005X55N       517.716mil       1855mil    517.716mil       1855mil    535.433mil       1855mil  B        180.00 Capacitor 0402 SMD
+C140       CAPC1005X55N           815mil       2105mil        815mil       2105mil    832.716mil       2105mil  B        180.00 Capacitor 0402 SMD
+C130       CAPC1005X55N          1065mil       1410mil       1065mil       1410mil       1065mil   1427.716mil  B        270.00 Capacitor 0402 SMD
+C131       CAPC1005X55N          1215mil       2055mil       1215mil       2055mil       1215mil   2037.284mil  B         90.00 Capacitor 0402 SMD
+C132       CAPC1005X55N          1065mil       2155mil       1065mil       2155mil       1065mil   2137.284mil  B         90.00 Capacitor 0402 SMD
+C169       CAPC1005X55N          2075mil       1725mil       2075mil       1725mil   2092.716mil       1725mil  B        180.00 Capacitor 0402 SMD
+

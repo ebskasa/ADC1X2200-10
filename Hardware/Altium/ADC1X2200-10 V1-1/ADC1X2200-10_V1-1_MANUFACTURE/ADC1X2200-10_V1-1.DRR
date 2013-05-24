@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ADC1X2200-10_V1-1.PcbDoc   2013/05/16  11:51:02 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : ADC1X2200-10_V1-1-Plated.TXT
+EIA File   : ADC1X2200-10_V1-1.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.25mm (9.842mil)        Round          18               65.16 mm (2.57 Inch)
+T2        0.3mm (11.811mil)        Round          755              2099.54 mm (82.66 Inch)
+T3        0.508mm (20mil)          Round          10               174.39 mm (6.87 Inch)
+T4        0.6mm (23.622mil)        Round          144              376.62 mm (14.83 Inch)
+T5        0.9mm (35.433mil)        Round          4                69.28 mm (2.73 Inch)
+T6        1.016mm (40mil)          Round          18               120.34 mm (4.74 Inch)
+T7        1.2mm (47.244mil)        Round          12               55.41 mm (2.18 Inch)
+T8        1.524mm (60mil)          Round          10               89.65 mm (3.53 Inch)
+T9        3.8mm (149.606mil)       Round          4                301.91 mm (11.89 Inch)
+---------------------------------------------------------------------------
+Totals                                            975              3352.30 mm (131.98 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
